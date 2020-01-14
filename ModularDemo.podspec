@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ModularDemo'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ModularDemo.'
+  s.summary          = 'ModularDemo做模块化的Demo.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/QiShare/ModularDemo'
+  s.homepage         = 'https://github.com/twototwoto/ModularDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'QiShare' => 'wangyongwang@360.cn' }
-  s.source           = { :git => 'https://github.com/QiShare/ModularDemo.git', :tag => s.version.to_s }
+  s.author           = { 'twototwoto' => '2637405168@qq.com' }
+  s.source           = { :git => 'https://github.com/twototwoto/ModularDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
