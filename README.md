@@ -22,7 +22,7 @@ pod 'ModularDemo'
 
 ## Author
 
-QiShare, wangyongwang@360.cn
+WYW, 2637405168@qq.com
 
 ## License
 
